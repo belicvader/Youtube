@@ -17,7 +17,7 @@ Youtube é uma plataforma de armazenamento de vídeos em formato mp4 para public
 
 O publico alvo do Youtube é bastante amplo, englobando quase toda a população conectada à internet no mundo, sem restrições profundas de classe, gênero ou faixa etária.
 
-<a id="funcionalidades"></a>
+<a id="desenvolvedores"></a>
 ## ⚙️ Funcionalidades
 
 - Pesquisa de vídeos
