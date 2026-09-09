@@ -12,11 +12,12 @@ Youtube é uma plataforma de armazenamento de vídeos em formato mp4 para public
 - [🧑‍💻 Desenvolvedores](#-desenvolvedores)
 
 
-
+<a id="publico-alvo"></a>
 ## 👥 Publico alvo
 
 O publico alvo do Youtube é bastante amplo, englobando quase toda a população conectada à internet no mundo, sem restrições profundas de classe, gênero ou faixa etária.
 
+<a id="funcionalidades"></a>
 ## ⚙️ Funcionalidades
 
 - Pesquisa de vídeos
@@ -28,6 +29,7 @@ O publico alvo do Youtube é bastante amplo, englobando quase toda a população
 - Sistemas de recomendações
 - Recursos de monetização
 
+<a id="tecnologias"></a>
 ## 🤖 Tecnologias
 
 <img style="height: 30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  JavaScript
@@ -49,6 +51,7 @@ O publico alvo do Youtube é bastante amplo, englobando quase toda a população
 - Tecnologia de IA
 - Machine Learning
 
+<a id="requisitos-utilizacao"></a>
 ## 📋 Requisitos para utilização 
 
 - Computador, celular ou tablet
@@ -68,6 +71,7 @@ O publico alvo do Youtube é bastante amplo, englobando quase toda a população
 - Dispositivo capaz de armazenar ou gravar vídeos;
 - Conexão com a internet para realizar o envio;
 
+<a id="desenvolvedores"></a>
 ## 🧑‍💻 Desenvolvedores
 - Bruna da Sillva Santana
 - Felipe Oliveira Nascimento
