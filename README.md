@@ -7,13 +7,13 @@ Youtube é uma plataforma de armazenamento de vídeos em formato mp4 para public
 
 - [Publico alvo](#Publico-alvo)
 
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#Funcionalidades)
 
 - [Tecnologias](#Tecnologias)
 
 - [Requisitos para utilização](#Requisitos-para-utilização)
 
-- [Desenvolvedores](#desenvolvedores)
+- [Desenvolvedores](#Desenvolvedores)
 
 
 ## 👥 Publico alvo
