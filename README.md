@@ -30,7 +30,6 @@ O publico alvo do Youtube é bastante amplo, englobando quase toda a população
 
 ## 🤖 Tecnologias
 
-
 <img style="height: 30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  JavaScript
             
 <img style="height: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> HTML
